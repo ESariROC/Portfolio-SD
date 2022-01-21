@@ -43,8 +43,15 @@ p {
     font-size: 25px;
 }
 .onder {
-    margin-top: 450px;
+    margin-top: 320px;
 }
 #foto {
     text-align: center;
+}
+.gitlink {
+    margin-left: 815px;
+    margin-top: 25px;
+}
+.rep {
+    margin-left: 15px;
 }
