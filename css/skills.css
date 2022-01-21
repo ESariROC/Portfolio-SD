@@ -1,0 +1,105 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    font-family: 'Cabin Regular';
+    background-image: url(img/test1.png);
+    background-size: 90%;
+}
+h1 {
+    color: whitesmoke;
+    text-align: center;
+    margin-top: 90px;
+    font-size: 60px;
+    text-shadow: 2px 2px 4px #000000;
+}
+#navo {
+    text-align: center;
+    margin-top: 25px;
+    color: whitesmoke;
+}
+a {
+    color: whitesmoke;
+    padding: 25px;
+    font-size: 20px;
+    text-decoration-line: none;
+    text-shadow: 2px 2px 4px #000000;
+}
+a:hover {
+    color: cyan;
+}
+#socio {
+    float: right;
+    margin-right: 200px;
+    margin-top: -50px;
+    text-shadow: 2px 2px 4px #000000;
+    font-size: 25px;
+}
+.text {
+    color: whitesmoke;
+    text-align: left;
+    text-shadow: 2px 2px 4px #000000;
+    font-size: 20px;
+    padding: 10px;
+    width: 170px;
+    float: left;
+}
+.onder {
+    margin-top: 450px;
+}
+#foto {
+    text-align: center;
+}
+h4 {
+    color: whitesmoke;
+    text-shadow: 2px 2px 4px #000000;
+    font-size: 15px;
+}
+.footy {
+    margin-left: 850px;
+    bottom: 0;
+    left: 0;
+    position: absolute;
+    margin-bottom: 15px;
+}
+img {
+    float: left;
+    margin-left: 75px;
+    margin-top: 15px;
+}
+.textintro {
+    text-align: center;
+    color: whitesmoke;
+    text-shadow: 2px 2px 4px #000000;
+    margin-top: 10px;
+    font-size: larger;
+}
+#apart {
+    width: 950px;
+    margin-left: 500px;
+    margin-top: 75px;
+    height: 350px;
+}
+.css {
+    margin-left: 40px;
+}
+.html {
+    margin-left: 85px;
+}
+.js {
+    margin-left: 85px;
+}
+.java {
+    margin-left: 90px;
+}
+#opdrachten {
+    width: 250px;
+    margin-left: 500px;
+    margin-top: 20px;
+}
+.opdracht {
+    color: whitesmoke;
+    text-shadow: 2px 2px 4px #000000;
+    padding: 10px;
+}
