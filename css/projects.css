@@ -59,7 +59,7 @@ p {
 .inhoud {
     text-align: center;
     background-color: rgba(69, 36, 216, 0.432);
-    width: 35%;
+    width: 25%;
     float: left;
     padding: 50px;
     margin-left: 120px;
@@ -69,4 +69,14 @@ p {
 h2 {
     color: whitesmoke;
     text-shadow: 2px 2px 4px #000000;
+}
+.inhoud2 {
+    text-align: center;
+    background-color: rgba(69, 36, 216, 0.432);
+    width: 25%;
+    float: left;
+    padding: 50px;
+    margin-left: 300px;
+    border-style: ridge;
+    margin-top: 15px;
 }
