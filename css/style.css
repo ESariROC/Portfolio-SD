@@ -15,8 +15,9 @@ body {
 }
 #navo {
     text-align: center;
-    margin-top: 25px;
     color: whitesmoke;
+    transition: all 0.3s ease;
+    padding-top: 30px;
 }
 a {
     color: whitesmoke;
@@ -24,18 +25,25 @@ a {
     font-size: 20px;
     text-decoration-line: none;
     text-shadow: 2px 2px 4px #000000;
+    transition: all 1s ease;
 }
 a:hover {
     color: rgba(3, 38, 77, 0.5);
 }
 .basis {
-    width: 1400px;
+    width: 1200px;
     margin-left: 220px;
     margin-top: 250px;
     color: whitesmoke;
     text-shadow: 2px 2px 4px #000000;
     padding: 20px;
     height: 170px;
+    background-image: linear-gradient(to right, rgb(48, 208, 219) , rgb(66, 48, 224));
+    box-shadow: 5px 10px 18px #0000006b;
+    transition: width 2s;
+}
+.basis:hover {
+    width: 1400px;
 }
 .extraintro {
     float: right;
@@ -63,6 +71,7 @@ h3 {
     background-color: rgb(255, 255, 255);
     border-color: white;
     margin-left: 300px;
+    margin-top: 8px;
 }
 .logo {
     width: 100px;
@@ -70,5 +79,20 @@ h3 {
 .imglogo {
     width: 100px;
     margin-left: 350px;
-    margin-top: -40px;
+    transition: all 1s ease;
+    margin-top: -50px;
+}
+.footy {
+    text-align: center;
+    margin-top: 250px;
+    color: whitesmoke;
+    text-shadow: 2px 2px 4px #000000;
+}
+.footerfont {
+    font-size: 15px;
+}
+header {
+    background-image: linear-gradient(to right, rgb(48, 208, 219) , rgb(66, 48, 224));
+    box-shadow: 5px 10px 18px #0000006b;
+    height: 1-0px;
 }
