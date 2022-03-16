@@ -16,21 +16,22 @@ body {
 h1 {
     color: whitesmoke;
     text-align: center;
-    margin-top: 90px;
+    margin-top: 20px;
     font-size: 60px;
     text-shadow: 2px 2px 4px #000000;
 }
 #navo {
     text-align: center;
-    margin-top: 25px;
     color: whitesmoke;
+    transition: all 0.3s ease;
 }
 a {
     color: whitesmoke;
     padding: 25px;
-    font-size: 20px;
+    font-size: 23px;
     text-decoration-line: none;
     text-shadow: 2px 2px 4px #000000;
+    transition: all 1s ease;
 }
 a:hover {
     color: cyan;
@@ -52,12 +53,6 @@ a:hover {
     text-shadow: 2px 2px 4px #000000;
     font-size: 20px;
 }
-.onder {
-    margin-top: 450px;
-}
-#foto {
-    text-align: center;
-}
 h4 {
     color: whitesmoke;
     text-shadow: 2px 2px 4px #000000;
@@ -72,4 +67,18 @@ h4 {
 }
 .reflectie {
     padding: 10px;
+}
+.logo {
+    width: 100px;
+}
+.imglogo {
+    width: 100px;
+    margin-left: 350px;
+    transition: all 1s ease;
+    margin-top: -50px;
+}
+header {
+    background-image: linear-gradient(to right, rgb(48, 208, 219) , rgb(66, 48, 224));
+    box-shadow: 5px 10px 18px #0000006b;
+    padding-top: 30px;
 }

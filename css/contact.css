@@ -29,7 +29,7 @@ h1 {
 a {
     color: whitesmoke;
     padding: 25px;
-    font-size: 20px;
+    font-size: 23px;
     text-decoration-line: none;
     text-shadow: 2px 2px 4px #000000;
 }
@@ -126,4 +126,21 @@ h4 {
     background-color: rgb(35, 167, 255);
     margin-top: 45px;
     margin-left: 70px;
+}
+.logo {
+    width: 100px;
+}
+.imglogo {
+    width: 100px;
+    margin-left: 350px;
+    transition: all 1s ease;
+    margin-top: -50px;
+}
+header {
+    background-image: linear-gradient(to right, rgb(48, 208, 219) , rgb(66, 48, 224));
+    box-shadow: 5px 10px 18px #0000006b;
+    padding-top: 5px;
+}
+main {
+    margin-top: 50px;
 }
