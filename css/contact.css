@@ -16,10 +16,10 @@ body {
 h1 {
     color: whitesmoke;
     text-align: center;
-    margin-top: 70px;
+    margin-bottom: 10px;
     font-size: 60px;
     text-shadow: 2px 2px 4px #000000;
-    margin-bottom: 20px;
+    margin-top: -30px;
 }
 #navo {
     text-align: center;
@@ -42,22 +42,6 @@ a:hover {
     margin-top: -50px;
     text-shadow: 2px 2px 4px #000000;
     font-size: 25px;
-}
-.text {
-    width: 65%;
-    float: left;
-    margin-top: 50px;
-    margin-left: 300px;
-    color: whitesmoke;
-    text-align: left;
-    text-shadow: 2px 2px 4px #000000;
-    font-size: 20px;
-}
-.onder {
-    margin-top: 450px;
-}
-#foto {
-    text-align: center;
 }
 h4 {
     color: whitesmoke;
@@ -143,4 +127,10 @@ header {
 }
 main {
     margin-top: 50px;
+}
+.Selfie {
+    margin-left: 150px;
+    margin-top: 20px;
+    background-image: linear-gradient(to right, rgb(48, 208, 219) , rgb(66, 48, 224));
+    padding: 5px;
 }
