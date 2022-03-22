@@ -50,6 +50,7 @@ h4 {
 .opdracht {
     color: rgba(0, 140, 255, 0.452);
     padding: 10px;
+    font-weight: bold;
 }
 header {
     background-image: linear-gradient(to right, rgb(48, 208, 219) , rgb(66, 48, 224));
@@ -121,6 +122,7 @@ main {
 }
 .sizefix {
     font-size: 30px;
+    font-weight: bold;
 }
 .sizefix2 {
     font-size: 30px;
@@ -131,4 +133,5 @@ main {
     padding: 10px;
     font-size: 13px;
     margin-top: -10px;
+    font-weight: bold;
 }
